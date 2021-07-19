@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+
+body {
+  color: white;
+  background-color: white;
+  background-image: url(media/wp2850177.jpg);
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Shadows Into Light";
+}
+
+footer {
+  color: black;
+  text-align: right;
+  padding: 500px;
+  text-transform: none;
+}
